@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/wenbin/.config/xfce4/xfconf/xfce-perchannel-xml'
+let g:netrw_dirhist_2='/home/wenbin/Documents/Repos/WSC-EHSN/.git'
+let g:netrw_dirhist_3='/home/wenbin/.config'
+let g:netrw_dirhist_4='/home/wenbin/report'

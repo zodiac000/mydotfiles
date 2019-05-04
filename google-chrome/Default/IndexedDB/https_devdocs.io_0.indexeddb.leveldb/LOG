@@ -1,0 +1,35 @@
+2019/04/26-22:25:05.000 4355 Reusing MANIFEST /home/wenbin/.config/google-chrome/Default/IndexedDB/https_devdocs.io_0.indexeddb.leveldb/MANIFEST-000001
+2019/04/26-22:25:05.000 4355 Recovering log #3
+2019/04/26-22:25:05.000 4355 Reusing old log /home/wenbin/.config/google-chrome/Default/IndexedDB/https_devdocs.io_0.indexeddb.leveldb/000003.log 
+2019/04/26-22:25:05.916 783c Level-0 table #5: started
+2019/04/26-22:25:05.980 783c Level-0 table #5: 8924786 bytes OK
+2019/04/26-22:25:05.983 783c Delete type=0 #3
+2019/04/26-22:25:06.641 783c Level-0 table #7: started
+2019/04/26-22:25:06.665 783c Level-0 table #7: 3258523 bytes OK
+2019/04/26-22:25:06.667 783c Delete type=0 #4
+2019/04/26-22:25:06.680 783c Level-0 table #9: started
+2019/04/26-22:25:06.702 783c Level-0 table #9: 3465539 bytes OK
+2019/04/26-22:25:06.704 783c Delete type=0 #6
+2019/04/26-22:25:07.014 783c Compacting 1@0 + 1@1 files
+2019/04/26-22:25:07.033 783c Generated table #10@0: 92 keys, 2210888 bytes
+2019/04/26-22:25:07.053 783c Generated table #11@0: 335 keys, 2262506 bytes
+2019/04/26-22:25:07.073 783c Generated table #12@0: 176 keys, 2144352 bytes
+2019/04/26-22:25:07.075 783c Generated table #13@0: 294 keys, 107021 bytes
+2019/04/26-22:25:07.075 783c Compacted 1@0 + 1@1 files => 6724767 bytes
+2019/04/26-22:25:07.076 783c compacted to: files[ 0 4 1 0 0 0 0 ]
+2019/04/26-22:25:07.076 783c Delete type=2 #7
+2019/04/26-22:25:07.077 783c Delete type=2 #9
+2019/04/26-22:25:07.079 783c Compacting 1@1 + 1@2 files
+2019/04/26-22:25:07.101 783c Generated table #14@1: 487 keys, 2168414 bytes
+2019/04/26-22:25:07.120 783c Generated table #15@1: 60 keys, 2216862 bytes
+2019/04/26-22:25:07.140 783c Generated table #16@1: 195 keys, 2111056 bytes
+2019/04/26-22:25:07.162 783c Generated table #17@1: 1240 keys, 2116503 bytes
+2019/04/26-22:25:07.182 783c Generated table #18@1: 452 keys, 2193942 bytes
+2019/04/26-22:25:07.186 783c Generated table #19@1: 6 keys, 328507 bytes
+2019/04/26-22:25:07.186 783c Compacted 1@1 + 1@2 files => 11135284 bytes
+2019/04/26-22:25:07.187 783c compacted to: files[ 0 3 6 0 0 0 0 ]
+2019/04/26-22:25:07.187 783c Delete type=2 #5
+2019/04/26-22:25:07.188 783c Delete type=2 #10
+2019/04/26-22:25:07.189 783c Level-0 table #21: started
+2019/04/26-22:25:07.213 783c Level-0 table #21: 2953048 bytes OK
+2019/04/26-22:25:07.215 783c Delete type=0 #8

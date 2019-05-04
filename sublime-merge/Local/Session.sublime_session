@@ -1,0 +1,31 @@
+{
+	"last_version": 1103,
+	"project_dir": "/home/wenbin",
+	"recent":
+	[
+		{
+			"ignore_diff_whitespace": false,
+			"location_bar_visible": false,
+			"path": "/home/wenbin/Documents/Repos/WSC-EHSN",
+			"table_of_contents_selected": false,
+			"window_height": 1414.0,
+			"window_width": 2560.0
+		}
+	],
+	"select_repository":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"windows":
+	[
+		{
+			"path": "/home/wenbin/Documents/Repos/WSC-EHSN",
+			"position": "0,0,0,0,0,0,26,2560,1440,2560,1440"
+		}
+	]
+}

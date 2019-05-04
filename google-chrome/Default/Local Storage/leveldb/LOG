@@ -1,0 +1,5 @@
+2019/05/04-12:09:02.201 4abc Reusing MANIFEST leveldb/MANIFEST-000001
+2019/05/04-12:09:02.201 4abc Recovering log #1976
+2019/05/04-12:09:02.203 4abc Level-0 table #1979: started
+2019/05/04-12:09:02.209 4abc Level-0 table #1979: 364572 bytes OK
+2019/05/04-12:09:02.210 4abc Delete type=0 #1976

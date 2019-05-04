@@ -1,0 +1,6 @@
+2019/05/04-12:01:08.463 2b5e Reusing MANIFEST /home/wenbin/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/05/04-12:01:08.464 2b5e Recovering log #116
+2019/05/04-12:01:08.469 2b5e Reusing old log /home/wenbin/.config/google-chrome/Default/Sync Data/LevelDB/000116.log 
+2019/05/04-12:01:33.861 2f6d Level-0 table #120: started
+2019/05/04-12:01:33.866 2f6d Level-0 table #120: 116163 bytes OK
+2019/05/04-12:01:33.867 2f6d Delete type=0 #116

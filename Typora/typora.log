@@ -1,0 +1,43 @@
+INFO 3/16/2019, 12:31:45 AM  cannot parse user config, use the default one
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/16/2019, 12:31:45 AM  initSentry
+INFO 3/16/2019, 12:31:45 AM  luanchFromDiffVersion, pre version is undefined
+INFO 3/16/2019, 12:31:45 AM  overwriteThemeFolder
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/16/2019, 12:31:45 AM  initCountly
+INFO 3/16/2019, 12:31:45 AM  ------------------start------------------
+INFO 3/16/2019, 12:31:45 AM  typora version: 0.9.65
+DEBUG 3/16/2019, 12:31:45 AM  [ '/usr/share/typora/Typora' ]
+DEBUG 3/16/2019, 12:31:45 AM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 3/16/2019, 12:31:45 AM  (node:23142) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 3/16/2019, 12:31:45 AM  app.openFile
+DEBUG 3/16/2019, 12:31:46 AM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 3/16/2019, 12:32:31 AM  addRecentFolder
+DEBUG 3/16/2019, 12:32:35 AM  app.openFile
+INFO 3/16/2019, 12:33:19 AM  addRecentDocument
+INFO 3/16/2019, 12:33:36 AM  ------------------quit------------------
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/16/2019, 6:45:12 PM  initSentry
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/16/2019, 6:45:12 PM  initCountly
+INFO 3/16/2019, 6:45:12 PM  ------------------start------------------
+INFO 3/16/2019, 6:45:12 PM  typora version: 0.9.65
+DEBUG 3/16/2019, 6:45:12 PM  [ '/usr/share/typora/Typora' ]
+DEBUG 3/16/2019, 6:45:12 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 3/16/2019, 6:45:12 PM  (node:15765) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 3/16/2019, 6:45:12 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+DEBUG 3/16/2019, 6:45:12 PM  app.openFile
+(electron) The 'lstatSyncNoException' function has been deprecated and marked for removal.
+DEBUG 3/16/2019, 6:45:23 PM  app.openFile
+INFO 3/16/2019, 6:45:23 PM  addRecentDocument
+INFO 3/16/2019, 6:45:44 PM  ------------------quit------------------

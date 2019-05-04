@@ -1,0 +1,27 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1092726368000155588985100000299540002
+clientId2=1092726368000155581787500000019560006
+clientId3=1092726368000155588985600000299540010
+count=3
+discardCommand2[$e]=rm,$HOME/.config/session/kwin_1092726368000155581787500000019560006_1555889870_945121
+program1=pulseaudio
+program2=/usr/bin/kwin_x11
+program3=/home/wenbin/.dropbox-dist/dropbox-lnx.x86_64-70.4.93/dropbox
+restartCommand1=
+restartCommand2=/usr/bin/kwin_x11,-session,1092726368000155581787500000019560006_1555889870_945121
+restartCommand3=/home/wenbin/.dropbox-dist/dropbox-lnx.x86_64-70.4.93/dropbox,-session,1092726368000155588985600000299540010_1555889870_933082
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=wenbin
+userId2=wenbin
+userId3=wenbin
+wasWm1=false
+wasWm2=true
+wasWm3=false

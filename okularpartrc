@@ -1,0 +1,12 @@
+[Core General]
+ExternalEditor=Custom
+ExternalEditorCommand=\snvr --remote-silent +%l "%f"
+
+[Main View]
+ShowLeftPanel=false
+
+[Nav Panel]
+SidebarIconSize=22
+
+[PageView]
+MouseMode=TextSelect

@@ -1,0 +1,19 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1440=1440
+State=AAAA/wAAAAD9AAAAAAAACfoAAAVmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 2560=2560
+Window-Maximized 1440x2560=true
+
+[Recent Files]
+File1[$e]=$HOME/Documents/CSI5155/Project/CSI5155_FinalProjectMarkingGuidelines2019.pdf
+File2[$e]=$HOME/Documents/CSI5155/LecturesNotes/Topic9_Linear.pdf
+File3[$e]=$HOME/Documents/CSI5155/LecturesNotes/Topic4_Trees.pdf
+File4[$e]=$HOME/Downloads/ccf/report/Machine_learning_Final_project.pdf
+Name1[$e]=CSI5155_FinalProjectMarkingGuidelines2019.pdf
+Name2[$e]=Topic9_Linear.pdf
+Name3[$e]=Topic4_Trees.pdf
+Name4[$e]=Machine_learning_Final_project.pdf

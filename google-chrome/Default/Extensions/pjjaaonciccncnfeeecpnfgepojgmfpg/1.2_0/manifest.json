@@ -1,0 +1,23 @@
+{
+   "description": "A tranquil backdrop for browsing",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkbe8q0mWghxhqKm4J56qfpC/Yv42eqn7TrI1+YxikN/KGLq+SC/TADzsxxGvU8Sil6ZX6GnNYEem4greYhnucIt9wSMw1Q0Tjt4YLCC8PY9Wpvo5fPWrZ/Ugr+HpdHrlniBioiSPdnxs3ys9P7YwmKiEPpij5flRFb+Lyvyq2e3Ut4dBpNvRtQwkcy+GKtNhytZ9qWoZoLLXVy1Q6xLnAYTfl4N4eUikJpAJNXTi2HhcKw3wU52WqOlmQJ21Srz71bcc67myuJBK/tnHDK6xbt7Yrv65E5wZfxlSdaduosvP1bAVZ65uKd835mbXvYG0zkd4tfnogCEQPQvPdvDIgQIDAQAB",
+   "manifest_version": 2,
+   "name": "Serenity",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 27, 43, 70 ],
+         "frame": [ 81, 111, 163 ],
+         "ntp_background": [ 131, 156, 200 ],
+         "ntp_text": [ 27, 43, 70 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 27, 43, 70 ],
+         "toolbar": [ 145, 168, 208 ]
+      },
+      "tints": {
+         "buttons": [ 0.6, 1, 0.2 ],
+         "frame_incognito": [ 0.6, 0.5, 0.25 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2"
+}

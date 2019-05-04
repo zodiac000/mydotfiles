@@ -1,0 +1,12 @@
+2019/04/30-19:33:52.905 537d Reusing MANIFEST /home/wenbin/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/04/30-19:33:52.906 537d Recovering log #12
+2019/04/30-19:33:52.920 537d Reusing old log /home/wenbin/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000012.log 
+2019/04/30-19:33:52.932 5a08 Level-0 table #18: started
+2019/04/30-19:33:52.945 5a08 Level-0 table #18: 1244176 bytes OK
+2019/04/30-19:33:52.947 5a08 Delete type=0 #12
+2019/04/30-22:39:41.647 5a08 Compacting 1@1 + 1@2 files
+2019/04/30-22:39:41.649 5a08 Generated table #19@1: 90 keys, 32275 bytes
+2019/04/30-22:39:41.649 5a08 Compacted 1@1 + 1@2 files => 32275 bytes
+2019/04/30-22:39:41.650 5a08 compacted to: files[ 0 0 1 0 0 0 0 ]
+2019/04/30-22:39:41.650 5a08 Delete type=2 #15
+2019/04/30-22:39:41.650 5a08 Delete type=2 #18
